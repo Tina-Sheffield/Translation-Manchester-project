@@ -2,7 +2,7 @@ Label--------------------------Abbreviation
 
 Arterial CO2 Pressure----------PCO2
 
-PH (Arterial)------------------PH
+PH (Arterial)-------------------PH
 
 O2 saturation pulse oximetry---SpO2
 
